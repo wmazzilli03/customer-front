@@ -52,5 +52,6 @@ export class AddCustomerComponent  {
 } 
 closeDialog(){
   this.dialogRef.close();
+  console.log("");
 }
 }
